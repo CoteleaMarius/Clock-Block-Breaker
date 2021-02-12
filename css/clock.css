@@ -1,0 +1,12 @@
+body {
+    background-color: azure;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+#canvas {
+    margin-left: 200px;
+    margin-top: 10px;
+}
